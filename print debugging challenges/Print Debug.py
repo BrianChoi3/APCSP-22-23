@@ -1,0 +1,10 @@
+print ("1 + 1 =", 1+1)
+print ("This is just a sentence.")
+print ("50 x 50 is", end = " ")
+print (50*50) 
+print ("Go KIDOYO!!!!")
+print ("Welcome!")
+print ("1.5 / 3 =", (1.5/3))
+for i in range(10):
+    print(i, end=" ")
+print ("\nLet's code!" + "This is kidOYO!")
